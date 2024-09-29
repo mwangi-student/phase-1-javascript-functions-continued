@@ -105,6 +105,7 @@ JavaScript also has _function expressions_ that look like this:
 ```js
 function() {
   console.log("Yet more razzling");
+  
 }
 ```
 
